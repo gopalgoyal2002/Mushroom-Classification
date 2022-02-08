@@ -10,4 +10,6 @@ Accuracy of the : GaussianNB() 0.9843076923076923
 Accuracy of the : DecisionTreeClassifier() 1.0
 Accuracy of the : RandomForestClassifier() 1.0
 
-v
+
+![image](https://user-images.githubusercontent.com/79508610/152944552-173221e0-f68f-41cb-9bcf-fec64c8f812b.png)
+
